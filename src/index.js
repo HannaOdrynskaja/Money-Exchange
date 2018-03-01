@@ -2,7 +2,7 @@
 module.exports = function makeExchange(currency) {
     // Your code goes here!
     // Return an object containing the minimum number of coins needed to make change
-var H = 0;
+	var H = 0;
 	var Q = 0;
 	var D = 0;
 	var N = 0;
